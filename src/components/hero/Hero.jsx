@@ -41,7 +41,7 @@ const Hero = () => {
               // data-aos="fade-up"
               className=" text-[1.1rem] font-medium w-3/4 md:w-full text-gray-600 sm:text-[.95rem]"
             >
-             Motivated and detail-oriented software developer with a strong foundation in Java and front-end development using React.js. Seeking an entry-level position where I can leverage my skills in building dynamic and efficient web applications while continuously learning and contributing to the team’s success in delivering innovative solutions.
+             i'm software developer with a strong foundation in Java and front-end development using React.js. Seeking an entry-level position where I can leverage my skills in building dynamic and efficient web applications while continuously learning and contributing to the team’s success in delivering innovative solutions.
 
 
             </p>
