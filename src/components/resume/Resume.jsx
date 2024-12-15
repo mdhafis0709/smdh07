@@ -42,7 +42,7 @@ const Resume = () => {
                   
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  April 2023 - June 2023
+                  November 2023 - february 2024
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
                 I am on a mission to create meaningful and impactful software solutions that shape the digital landscape as a software developer internship at EVM Management Service Pvt Ltd.
