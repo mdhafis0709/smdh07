@@ -79,7 +79,7 @@ const Skills = ({ darkMode }) => {
                 logo={<SiExpress />}
                 black={"black"}
                 white={"white"}
-                skill={"Express Js"}
+                skill={"Java"}
               />
               <SkillBox
                 className=""
@@ -88,7 +88,7 @@ const Skills = ({ darkMode }) => {
                 }
                 black={"black"}
                 white={"white"}
-                skill={"C++"}
+                skill={"Python"}
               />
               {/* <SkillBox
                 className=""
